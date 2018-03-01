@@ -1,0 +1,11 @@
+/Users/macbook/Projects/consul1/aspnet1/bin/Debug/netcoreapp2.0/aspnet1.deps.json
+/Users/macbook/Projects/consul1/aspnet1/bin/Debug/netcoreapp2.0/aspnet1.runtimeconfig.json
+/Users/macbook/Projects/consul1/aspnet1/bin/Debug/netcoreapp2.0/aspnet1.runtimeconfig.dev.json
+/Users/macbook/Projects/consul1/aspnet1/bin/Debug/netcoreapp2.0/aspnet1.dll
+/Users/macbook/Projects/consul1/aspnet1/bin/Debug/netcoreapp2.0/aspnet1.pdb
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.csprojResolveAssemblyReference.cache
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.AssemblyInfo.cs
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.dll
+/Users/macbook/Projects/consul1/aspnet1/obj/Debug/netcoreapp2.0/aspnet1.pdb

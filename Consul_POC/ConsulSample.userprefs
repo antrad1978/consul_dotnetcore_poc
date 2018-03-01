@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DA9A5FA1-CA7E-41A3-8C8B-5F8FA0DA188F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspnet1/Startup.cs">
+    <Files>
+      <File FileName="client_consul1/Program.cs" Line="51" Column="7" />
+      <File FileName="aspnet1/Startup.cs" Line="45" Column="43" />
+      <File FileName="aspnet1/Program.cs" Line="17" Column="1" />
+      <File FileName="aspnet1/Controllers/HomeController.cs" Line="37" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/macbook/Projects/consul1/consul1/Startup.cs" relfile="consul1/Startup.cs" line="32" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/aspnet1/Startup.cs" relfile="aspnet1/Startup.cs" line="32" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="40" column="28" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="31" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="17" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="53" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="57" column="1" />
+      <Breakpoint file="/Users/macbook/Projects/consul1/client_consul1/Program.cs" relfile="client_consul1/Program.cs" line="56" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.aspnet1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
